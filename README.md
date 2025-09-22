@@ -1,1 +1,14 @@
-# PROJETO_1_HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apresentação Pessoal</title>
+</head>
+<body>
+    <h1>Minha Apresentação</h1>
+    <p>Olá! Meu nome é Rafaelly Lorena. Tenho 17 anos e moro em Maranguape, no Estado do Ceará. </p>
+    <hr>
+    <p>Atualmente estou estudando no IFCE Campus Maranguape, no Curso Técnico Integrado em Informática. </p>
+    <br>
+    <p>Nos meus momentos livres, gosto de jogar vôlei.  </p>
+</body>
+</html>
